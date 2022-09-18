@@ -1,0 +1,24 @@
+.list {
+    border: solid 2px black;
+    margin-top: 15px;
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    /*margin-left: 10px;*/
+}
+
+.listRedactors {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+
+.list_content strong{
+    font-size: 18px;
+}
+.list_content div {
+    font-size: 16px;
+}
